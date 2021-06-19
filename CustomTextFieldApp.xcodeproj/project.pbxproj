@@ -11,6 +11,7 @@
 		AC4FC713267CF7AF00E40C14 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4FC712267CF7AF00E40C14 /* ContentView.swift */; };
 		AC4FC715267CF7B100E40C14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC4FC714267CF7B100E40C14 /* Assets.xcassets */; };
 		AC4FC718267CF7B100E40C14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC4FC717267CF7B100E40C14 /* Preview Assets.xcassets */; };
+		AC4FC747267E4E7400E40C14 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4FC746267E4E7400E40C14 /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AC4FC714267CF7B100E40C14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC4FC717267CF7B100E40C14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AC4FC719267CF7B100E40C14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC4FC746267E4E7400E40C14 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		AC4FC70F267CF7AF00E40C14 /* CustomTextFieldApp */ = {
 			isa = PBXGroup;
 			children = (
+				AC4FC746267E4E7400E40C14 /* CustomTextField.swift */,
 				AC4FC710267CF7AF00E40C14 /* CustomTextFieldAppApp.swift */,
 				AC4FC712267CF7AF00E40C14 /* ContentView.swift */,
 				AC4FC714267CF7B100E40C14 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC4FC747267E4E7400E40C14 /* CustomTextField.swift in Sources */,
 				AC4FC713267CF7AF00E40C14 /* ContentView.swift in Sources */,
 				AC4FC711267CF7AF00E40C14 /* CustomTextFieldAppApp.swift in Sources */,
 			);
